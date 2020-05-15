@@ -1,1 +1,1 @@
-# hackathon_may15
+# Hack-a-thon-May-15
